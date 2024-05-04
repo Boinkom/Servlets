@@ -1,0 +1,13 @@
+ru\productstar\servlets\ExpensesServlet.class
+ru\productstar\servlets\filters\ExpensesFilter.class
+ru\productstar\servlets\LoginServlet.class
+ru\productstar\servlets\model\Transaction.class
+ru\productstar\servlets\filters\ErrorHandlingFilter.class
+ru\productstar\servlets\IncomeServlet.class
+ru\productstar\servlets\SummaryServlet.class
+ru\productstar\servlets\model\Income.class
+ru\productstar\servlets\SummaryServlet$1.class
+ru\productstar\servlets\DetailsServlet.class
+ru\productstar\servlets\listeners\LogAttributeChanges.class
+ru\productstar\servlets\SummaryServlet$2.class
+ru\productstar\servlets\model\Expense.class
